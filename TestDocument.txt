@@ -1,3 +1,5 @@
 This is a test document.
 
 This is a change to the test document.
+
+Some new functionality added on the new branch.
